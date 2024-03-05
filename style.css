@@ -20,3 +20,7 @@ footer {
 #nome-usuário{
     font-weight: bolder;
 }
+
+.texto-principal{
+    font-style: italic;
+}

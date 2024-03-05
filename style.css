@@ -16,3 +16,7 @@ header {
 footer {
     border-top: 1px solid #172DF1;
 }
+
+#nome-usuário{
+    font-weight: bolder;
+}

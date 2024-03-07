@@ -1,4 +1,4 @@
-let nome_usuario = "" ;
+let nome_usuario = "";
 let elemento = document.querySelector ("#nome-usuário");
 
 while(nome_usuario) = = ""{

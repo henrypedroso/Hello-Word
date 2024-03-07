@@ -1,8 +1,4 @@
-let nome_usuario = "";
+let nome_usuario = prompt("Qual é o seu nome?");
 let elemento = document.querySelector ("#nome-usuário");
-
-while(nome_usuario) = = ""{
-    nome_usuario = prompt("Qual é o seu nome?");
-}
 
 elemento.textContent = nome_usuario; 
